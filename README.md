@@ -1,3 +1,3 @@
 # Spectrasonics Omnisphere
 
-Utility scaffolding.
+Placeholder README (LLM render failed).
